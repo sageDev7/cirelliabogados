@@ -525,7 +525,6 @@ nav.desk a:hover::after, nav.desk a.active::after { width: 100%; }
   .ci-heading { text-align: center; }
   .ci-form { padding: 26px 22px; text-align: center; }
   .ci-form-head { text-align: center; }
-  .ci-form .form-check { flex-direction: column; align-items: center; text-align: center; }
   .ci-card { padding: 28px 24px; align-items: center; text-align: center; }
   .ci-card h4 { width: 100%; }
   .ci-card a, .ci-card p { flex-direction: column; align-items: center; width: 100%; gap: 6px; }
